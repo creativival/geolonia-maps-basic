@@ -48,76 +48,76 @@ layers:
   # - !!inc/file layers/landuse-commercial.yml
   # - !!inc/file layers/landuse-industrial.yml
   # - !!inc/file layers/park.yml
-  # - !!inc/file layers/landuse-cemetery.yml
-  # - !!inc/file layers/landuse-hospital.yml
-  # - !!inc/file layers/landuse-school.yml
-  # - !!inc/file layers/landuse-railway.yml
-  # - !!inc/file layers/waterway_tunnel.yml
-  # - !!inc/file layers/waterway-other.yml
-  # - !!inc/file layers/waterway-stream-canal.yml
-  # - !!inc/file layers/waterway-river.yml
-  # - !!inc/file layers/water-name-ocean.yml
-  # - !!inc/file layers/water-name-other.yml
-  # - !!inc/file layers/ferry.yml
-  # - !!inc/file layers/bridge-area.yml
-  # - !!inc/file layers/bridge-motorway-link-casing-blur.yml
-  # - !!inc/file layers/bridge-link-casing-blur.yml
-  # - !!inc/file layers/bridge-secondary-tertiary-casing-blur.yml
-  # - !!inc/file layers/bridge-trunk-primary-casing-blur.yml
-  # - !!inc/file layers/bridge-path-casing-blur.yml
-  # - !!inc/file layers/bridge-motorway-casing-blur.yml
-  # - !!inc/file layers/tunnel-railway.yml
-  # - !!inc/file layers/tunnel-service-track-casing.yml
-  # - !!inc/file layers/tunnel-minor-casing.yml
-  # - !!inc/file layers/tunnel-secondary-tertiary-casing.yml
-  # - !!inc/file layers/tunnel-trunk-primary-casing.yml
-  # - !!inc/file layers/tunnel-motorway-casing.yml
-  # - !!inc/file layers/tunnel-service-track.yml
-  # - !!inc/file layers/tunnel-minor.yml
-  # - !!inc/file layers/tunnel-secondary-tertiary.yml
-  # - !!inc/file layers/tunnel-trunk-primary.yml
-  # - !!inc/file layers/tunnel-motorway.yml
-  # - !!inc/file layers/aeroway-taxiway-casing.yml
-  # - !!inc/file layers/aeroway-runway-casing.yml
-  # - !!inc/file layers/aeroway-taxiway.yml
-  # - !!inc/file layers/aeroway-runway.yml
+  - !!inc/file layers/landuse-cemetery.yml
+  - !!inc/file layers/landuse-hospital.yml
+  - !!inc/file layers/landuse-school.yml
+  - !!inc/file layers/landuse-railway.yml
+  - !!inc/file layers/waterway_tunnel.yml
+  - !!inc/file layers/waterway-other.yml
+  - !!inc/file layers/waterway-stream-canal.yml
+  - !!inc/file layers/waterway-river.yml
+  - !!inc/file layers/water-name-ocean.yml
+  - !!inc/file layers/water-name-other.yml
+  - !!inc/file layers/ferry.yml
+  - !!inc/file layers/bridge-area.yml
+  - !!inc/file layers/bridge-motorway-link-casing-blur.yml
+  - !!inc/file layers/bridge-link-casing-blur.yml
+  - !!inc/file layers/bridge-secondary-tertiary-casing-blur.yml
+  - !!inc/file layers/bridge-trunk-primary-casing-blur.yml
+  - !!inc/file layers/bridge-path-casing-blur.yml
+  - !!inc/file layers/bridge-motorway-casing-blur.yml
+  - !!inc/file layers/tunnel-railway.yml
+  - !!inc/file layers/tunnel-service-track-casing.yml
+  - !!inc/file layers/tunnel-minor-casing.yml
+  - !!inc/file layers/tunnel-secondary-tertiary-casing.yml
+  - !!inc/file layers/tunnel-trunk-primary-casing.yml
+  - !!inc/file layers/tunnel-motorway-casing.yml
+  - !!inc/file layers/tunnel-service-track.yml
+  - !!inc/file layers/tunnel-minor.yml
+  - !!inc/file layers/tunnel-secondary-tertiary.yml
+  - !!inc/file layers/tunnel-trunk-primary.yml
+  - !!inc/file layers/tunnel-motorway.yml
+  - !!inc/file layers/aeroway-taxiway-casing.yml
+  - !!inc/file layers/aeroway-runway-casing.yml
+  - !!inc/file layers/aeroway-taxiway.yml
+  - !!inc/file layers/aeroway-runway.yml
   # - !!inc/file layers/building.yml
   # - !!inc/file layers/building-3d.yml
-  # - !!inc/file layers/highway-area.yml
-  # - !!inc/file layers/highway-motorway-link-casing.yml
-  # - !!inc/file layers/highway-link-casing.yml
-  # - !!inc/file layers/highway-minor-casing.yml
-  # - !!inc/file layers/highway-secondary-tertiary-casing.yml
-  # - !!inc/file layers/highway-primary-casing.yml
-  # - !!inc/file layers/highway-trunk-casing.yml
-  # - !!inc/file layers/highway-motorway-casing.yml
-  # - !!inc/file layers/highway-path.yml
-  # - !!inc/file layers/highway-motorway-link.yml
-  # - !!inc/file layers/highway-link.yml
-  # - !!inc/file layers/highway-minor.yml
-  # - !!inc/file layers/highway-secondary-tertiary.yml
-  # - !!inc/file layers/highway-primary.yml
-  # - !!inc/file layers/highway-trunk.yml
-  # - !!inc/file layers/highway-motorway.yml
-  # - !!inc/file layers/waterway-name.yml
-  # - !!inc/file layers/water-name-lakeline.yml
-  # - !!inc/file layers/railway.yml
-  # - !!inc/file layers/railway-hatching.yml
-  # - !!inc/file layers/railway-subway.yml
-  # - !!inc/file layers/bridge-motorway-link-casing.yml
-  # - !!inc/file layers/bridge-link-casing.yml
-  # - !!inc/file layers/bridge-secondary-tertiary-casing.yml
-  # - !!inc/file layers/bridge-trunk-primary-casing.yml
-  # - !!inc/file layers/bridge-path-casing.yml
-  # - !!inc/file layers/bridge-path.yml
-  # - !!inc/file layers/bridge-motorway-link.yml
-  # - !!inc/file layers/bridge-link.yml
-  # - !!inc/file layers/bridge-secondary-tertiary.yml
-  # - !!inc/file layers/bridge-trunk-primary.yml
-  # - !!inc/file layers/bridge-motorway-casing.yml
-  # - !!inc/file layers/bridge-motorway.yml
-  # - !!inc/file layers/cablecar.yml
-  # - !!inc/file layers/cablecar-dash.yml
+  - !!inc/file layers/highway-area.yml
+  - !!inc/file layers/highway-motorway-link-casing.yml
+  - !!inc/file layers/highway-link-casing.yml
+  - !!inc/file layers/highway-minor-casing.yml
+  - !!inc/file layers/highway-secondary-tertiary-casing.yml
+  - !!inc/file layers/highway-primary-casing.yml
+  - !!inc/file layers/highway-trunk-casing.yml
+  - !!inc/file layers/highway-motorway-casing.yml
+  - !!inc/file layers/highway-path.yml
+  - !!inc/file layers/highway-motorway-link.yml
+  - !!inc/file layers/highway-link.yml
+  - !!inc/file layers/highway-minor.yml
+  - !!inc/file layers/highway-secondary-tertiary.yml
+  - !!inc/file layers/highway-primary.yml
+  - !!inc/file layers/highway-trunk.yml
+  - !!inc/file layers/highway-motorway.yml
+  - !!inc/file layers/waterway-name.yml
+  - !!inc/file layers/water-name-lakeline.yml
+  - !!inc/file layers/railway.yml
+  - !!inc/file layers/railway-hatching.yml
+  - !!inc/file layers/railway-subway.yml
+  - !!inc/file layers/bridge-motorway-link-casing.yml
+  - !!inc/file layers/bridge-link-casing.yml
+  - !!inc/file layers/bridge-secondary-tertiary-casing.yml
+  - !!inc/file layers/bridge-trunk-primary-casing.yml
+  - !!inc/file layers/bridge-path-casing.yml
+  - !!inc/file layers/bridge-path.yml
+  - !!inc/file layers/bridge-motorway-link.yml
+  - !!inc/file layers/bridge-link.yml
+  - !!inc/file layers/bridge-secondary-tertiary.yml
+  - !!inc/file layers/bridge-trunk-primary.yml
+  - !!inc/file layers/bridge-motorway-casing.yml
+  - !!inc/file layers/bridge-motorway.yml
+  - !!inc/file layers/cablecar.yml
+  - !!inc/file layers/cablecar-dash.yml
   # - !!inc/file layers/boundary-land-level-4.yml
   # - !!inc/file layers/railway-name.yml
   # - !!inc/file layers/railway-subway-name.yml
